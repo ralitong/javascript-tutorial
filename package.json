@@ -1,0 +1,19 @@
+{
+  "name": "javascript-tutorial",
+  "version": "1.0.0",
+  "description": "this serves as a guide in using javascript using the node framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ral Itong",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jasmine-core": "^2.8.0",
+    "karma": "^1.7.0",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-jasmine-html-reporter": "^0.2.2"
+  },
+  "dependencies": {}
+}
